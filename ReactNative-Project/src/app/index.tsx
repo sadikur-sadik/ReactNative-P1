@@ -1,4 +1,5 @@
 import { Text, View, StyleSheet } from "react-native";
+import App from './App';
 
 export default function Index() {
   return (
